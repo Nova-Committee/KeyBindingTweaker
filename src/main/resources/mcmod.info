@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "kbtwkr",
+    "name": "KeyBindingTweaker",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Tapio"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
